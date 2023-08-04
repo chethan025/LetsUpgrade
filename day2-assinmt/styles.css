@@ -1,0 +1,23 @@
+
+div{
+    background-color: #bdbdbd;
+    color: #25b8b8;
+    padding: 20px;
+}  
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}  
+h2{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+section{
+    border: 2px solid;
+    border-radius: 50%;
+}
+
+li{
+    color: #383838;
+}
+li:hover{
+    color: #4d0d88;
+}
